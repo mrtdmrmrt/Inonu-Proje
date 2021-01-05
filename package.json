@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "argon": "^2.0.20",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "gulp": "^4.0.2",
     "transition": "^0.1.1",
     "vue": "^2.5.11",
